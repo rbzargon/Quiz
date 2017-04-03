@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question1">What is the most abundant element in the universe?</string>
+    <string name="q1_answer1">Hydrogen</string>
+    <string name="q1_answer2">Helium</string>
+    <string name="q1_answer3">Oxygen</string>
+    <string name="q1_answer4">Iron</string>
+    <string name="question2">What element makes up the largest portion of Earth\'s mass?</string>
+    <string name="q2_answer1">Hydrogen</string>
+    <string name="q2_answer2">Carbon</string>
+    <string name="q2_answer3">Oxygen</string>
+    <string name="q2_answer4">Nitrogen</string>
+    <string name="question3">The __________ Ocean is the largest ocean on Earth.</string>
+    <string name="question4">Which of these are time periods of the dinosaurs? (Choose all that apply)</string>
+    <string name="q4_answer1">Holocene</string>
+    <string name="q4_answer2">Triassic</string>
+    <string name="q4_answer3">Jurassic</string>
+    <string name="q4_answer4">Cretaceous</string>
+    <string name="submit">submit</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect!</string>
+    <string name="answer_hint">Answer</string>
+    <string name="A">A:</string>
+    <string name="scoreTitle">Score</string>
+    <string name="scorePerfect">Perfect!</string>
+    <string name="scoreGood">Well done!</string>
+    <string name="scoreBad">Try again!</string>
+    <string name="try_again">Try Again</string>
+</resources>
